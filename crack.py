@@ -27,6 +27,5 @@ try:
 	print "Senha nao encontrada. :-("
 except IOError:
 	print "Arquivo inexistente, tente novamente!"
-	sys.exit()
 except KeyboardInterrupt:
 	print "\nUsuario parou, saindo..."
