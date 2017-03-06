@@ -1,2 +1,2 @@
-# linuxcrack
-Python linux password cracker
+# Usage
+python crack.py -f wordlist
