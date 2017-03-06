@@ -30,6 +30,3 @@ except IOError:
 	sys.exit()
 except KeyboardInterrupt:
 	print "\nUsuario parou, saindo..."
-except:
-	print "Algum erro ocorreu, tente novamente!"
-	sys.exit()
